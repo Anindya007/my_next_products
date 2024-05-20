@@ -1,0 +1,32 @@
+.mainDiv {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    padding: 6rem;
+    padding-left: 2rem;
+    min-height: 100vh;
+  }
+
+.loginForm{
+  margin-left:30% !important;
+}  
+
+#loginHead{
+    color:yellow;
+    margin-left:45%;
+    margin-top:10%;
+  }
+  
+  .input{
+    padding:2px;
+    margin-right:3%;
+  }
+  
+  .button{
+    margin-top:5%;
+    width:30%;
+    background-color: aqua;
+    color:black;
+  }
+
